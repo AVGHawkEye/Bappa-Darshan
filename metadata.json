@@ -1,0 +1,10 @@
+{
+  "name": "Bappa Darshan",
+  "description": "Discover, document, relive, and identify every Ganpati pandal across Kandivali–Charkop with offline-first visit logging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
